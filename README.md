@@ -1,6 +1,6 @@
 # Clicker-X-Script-Open-source
 # 🚨WARNING🚨
-Please remember, ruining others fun for your enjoymeant ins't cool. No the "Huzz" at school don't care if you hack on roblox.
+Please remember, ruining others fun for your enjoymeant ins't cool. No, the "Huzz" at school don't care if you hack on roblox.
 Use this script to learn about RemoteEvents and how exploiters can abuse them.
 
 # ❓How to use❓
